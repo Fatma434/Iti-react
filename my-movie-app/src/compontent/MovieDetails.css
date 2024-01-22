@@ -1,0 +1,31 @@
+/* src/components/MovieDetails.css */
+
+/* Define styles for the container */
+.my-4 {
+    margin-top: 4rem;
+    margin-bottom: 4rem;
+  }
+  
+  /* Define styles for the image */
+  .img-fluid {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  /* Define styles for the heart icon */
+  .favorite-icon {
+    font-size: 24px;
+    cursor: pointer;
+    
+  }
+  
+  /* Define styles for the filled heart icon */
+  .favorite-icon.filled {
+    color: red;
+  }
+  
+  /* Define styles for the bordered heart icon */
+  .favorite-icon.bordered {
+    color: grey;
+  }
+  

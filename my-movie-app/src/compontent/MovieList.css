@@ -1,0 +1,32 @@
+body{
+  background-color:rgb(216, 214, 179);
+}
+.favorite-icon {
+    cursor: pointer;
+    font-size: 24px;
+    margin-top: 10px;
+  }
+  
+  .favorite-icon.bordered {
+    color: #ccc;
+  }
+  
+  .favorite-icon.filled {
+    color: rgb(235, 11, 179); 
+  }
+  .favorite-icon {
+    /* Your common styles for the heart icon */
+    cursor: pointer;
+  }
+  
+  .favorite-icon.bordered {
+    /* Styles for the heart icon when not in favorites */
+    color: #e9d5d5; /* Adjust the color as needed */
+  }
+  
+  .favorite-icon.filled {
+    /* Styles for the heart icon when in favorites */
+    color: #ff0000; /* Adjust the color as needed */
+  }
+  
+  
