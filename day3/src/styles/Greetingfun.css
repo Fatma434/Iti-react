@@ -1,0 +1,21 @@
+button {
+  width: 100px;
+  height: 100px;
+  display: block;
+}
+div {
+  display: inline;
+  font-size: 100px;
+  background-color: brown;
+  color: white;
+}
+
+.upperthanten {
+  background-color: brown;
+  color: white;
+}
+
+.lowerthanten {
+  background-color: rgb(42, 165, 42);
+  color: white;
+}
